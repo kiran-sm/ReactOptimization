@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactOptimization/static/css/main.5a4b9b14.css",
+    "main.js": "/ReactOptimization/static/js/main.365b308b.js",
+    "index.html": "/ReactOptimization/index.html",
+    "main.5a4b9b14.css.map": "/ReactOptimization/static/css/main.5a4b9b14.css.map",
+    "main.365b308b.js.map": "/ReactOptimization/static/js/main.365b308b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a4b9b14.css",
+    "static/js/main.365b308b.js"
+  ]
+}
