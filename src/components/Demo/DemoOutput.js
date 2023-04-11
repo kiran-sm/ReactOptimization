@@ -1,11 +1,12 @@
-import { Fragment } from "react";
+import React, { Fragment } from "react";
+import MyParagraph from "./MyParagraph";
 
 const DemoOutput = (props) => {
   return (
     <Fragment>
-      <p>{props.show ? "This is new!" : ""}</p>
+      <MyParagraph>{props.show ? "This is new!" : ""}</MyParagraph>
     </Fragment>
   );
 };
 
-export default DemoOutput;
+export default React.memo(DemoOutput);
