@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReactOptimization/static/css/main.5a4b9b14.css",
-    "main.js": "/ReactOptimization/static/js/main.365b308b.js",
+    "main.css": "/ReactOptimization/static/css/main.41b43edb.css",
+    "main.js": "/ReactOptimization/static/js/main.a06ff122.js",
     "index.html": "/ReactOptimization/index.html",
-    "main.5a4b9b14.css.map": "/ReactOptimization/static/css/main.5a4b9b14.css.map",
-    "main.365b308b.js.map": "/ReactOptimization/static/js/main.365b308b.js.map"
+    "main.41b43edb.css.map": "/ReactOptimization/static/css/main.41b43edb.css.map",
+    "main.a06ff122.js.map": "/ReactOptimization/static/js/main.a06ff122.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a4b9b14.css",
-    "static/js/main.365b308b.js"
+    "static/css/main.41b43edb.css",
+    "static/js/main.a06ff122.js"
   ]
 }
